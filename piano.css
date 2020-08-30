@@ -4,6 +4,7 @@ body{
     align-items: center;
     height: 100vh;
     background-image: url("https://media.giphy.com/media/YRcXl6VfNhCorklI0R/giphy.gif");
+    background-size: cover;
 }
 
 .box {
