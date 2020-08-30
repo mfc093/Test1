@@ -1,0 +1,106 @@
+body{
+	background-color: black;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    background-image: url("https://media.giphy.com/media/YRcXl6VfNhCorklI0R/giphy.gif");
+}
+
+.box {
+    background-color: orange;
+    height: 400px;
+    width: 400px;
+    color: white;
+    font-size: 20px; 
+    font-weight: bolder;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;}
+
+.box1 {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: helvetica;
+}
+.box2 {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: helvetica;
+
+}
+
+.box3 {
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: helvetica;
+ 
+    }
+.box4 {
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: helvetica;
+   
+
+}
+
+.hidden {
+ display: none;}
+
+/* VISIBLE */
+
+.box1:hover .visible {
+    
+    display: none;}
+
+.box2:hover .visible {
+    
+    display: none;}
+
+.box3:hover .visible {
+    
+    display: none;}
+
+.box4:hover .visible {
+    
+    display: none;}
+
+
+
+ 
+.box1:hover .hidden {
+
+    display: block;}
+.box2:hover .hidden {
+
+    display: block;}
+
+.box3:hover .hidden {
+
+    display: block;}
+
+.box4:hover .hidden {
+
+    display: block;}
+
+//Around//
+.around {
+
+}
