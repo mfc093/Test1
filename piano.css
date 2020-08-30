@@ -19,7 +19,9 @@ body{
     align-items: center;
     margin-left: auto;
     margin-right: auto;
-    justify-content: center;}
+    justify-content: center;
+    border-radius: 20px;
+}
 
 .box:hover {
 	background-image: url("https://media.giphy.com/media/3oxHQGVPrFKfHJjdde/giphy.gif");
