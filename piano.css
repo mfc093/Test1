@@ -3,8 +3,8 @@ body{
     display: flex;
     align-items: center;
     height: 100vh;
-    background-image: url("https://media.giphy.com/media/YRcXl6VfNhCorklI0R/giphy.gif");
-    background-size: cover;
+    background-image: url("https://media.giphy.com/media/l41JFuZmxcGmy6bxC/giphy.gif");
+    
 }
 
 .box {
@@ -19,6 +19,10 @@ body{
     margin-left: auto;
     margin-right: auto;
     justify-content: center;}
+
+.box:hover {
+	background-image: url("https://media.giphy.com/media/l41JFuZmxcGmy6bxC/giphy.gif");
+}
 
 .box1 {
     background-color: red;
