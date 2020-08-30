@@ -4,6 +4,7 @@ body{
     align-items: center;
     height: 100vh;
     background-image: url("https://media.giphy.com/media/l41JFuZmxcGmy6bxC/giphy.gif");
+    background-size: cover;
     
 }
 
@@ -21,7 +22,7 @@ body{
     justify-content: center;}
 
 .box:hover {
-	background-image: url("https://media.giphy.com/media/l41JFuZmxcGmy6bxC/giphy.gif");
+	background-image: url("https://media.giphy.com/media/3oxHQGVPrFKfHJjdde/giphy.gif");
 }
 
 .box1 {
